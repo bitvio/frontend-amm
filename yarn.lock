@@ -1984,7 +1984,7 @@
 
 "@pancakeswap-libs/uikit@bitvio/paint-uikit":
   version "0.10.3"
-  resolved "https://codeload.github.com/bitvio/paint-uikit/tar.gz/0d5da331f94a49246cdcaf8e8232a1655f11179f"
+  resolved "https://codeload.github.com/bitvio/paint-uikit/tar.gz/c2cae5cb7f52d28bede6c619ea03963fa6819e96"
   dependencies:
     "@types/lodash" "^4.14.162"
     "@types/styled-system" "^5.1.10"
